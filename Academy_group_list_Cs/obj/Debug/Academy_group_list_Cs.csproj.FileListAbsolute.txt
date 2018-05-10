@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Academy_group_list_Cs\Academy_group_list_Cs\bin\Debug\Academy_group_list_Cs.exe
+C:\Users\User\source\repos\Academy_group_list_Cs\Academy_group_list_Cs\bin\Debug\Academy_group_list_Cs.pdb
+C:\Users\User\source\repos\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.exe
+C:\Users\User\source\repos\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.csprojResolveAssemblyReference.cache
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Academy_group_list_Cs\Academy_group_list_Cs\obj\Debug\Academy_group_list_Cs.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Academy_group_list_Cs\Academy_group_list_Cs\bin\Debug\Academy_group_list_Cs.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Academy_group_list_Cs\Academy_group_list_Cs\bin\Debug\Academy_group_list_Cs.pdb
